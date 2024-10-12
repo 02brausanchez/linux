@@ -5,6 +5,9 @@ A continuación se presentan varios comandos útiles de Linux junto con sus desc
 
 El comando `ls` se utiliza para listar los archivos y directorios en el directorio actual.
 
+Por ejemplo:
+
+```markdown
 ```bash
 ls
 ## Cambiar de directorio
