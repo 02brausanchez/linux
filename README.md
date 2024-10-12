@@ -7,10 +7,11 @@ El comando `ls` se utiliza para listar los archivos y directorios en el director
 
 Por ejemplo:
 
-```markdown
 ```bash
 ls
+
 ## Cambiar de directorio
+
 El comando cd permite cambiar al directorio especificado
 
 ```cd /ruta/al/directorio
