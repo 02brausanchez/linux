@@ -12,7 +12,7 @@ ls
 ```
 ## Cambiar de directorio
 
-El comando cd permite cambiar al directorio especificado
+El comando `cd` permite cambiar al directorio especificado
 
 ```
 cd /ruta/al/directorio
@@ -20,7 +20,7 @@ cd /ruta/al/directorio
 
 ## Ver el contenido de un archivo
 
-El comando cat muestra el contenido de un archivo.
+El comando `cat` muestra el contenido de un archivo.
 
 ```
 cat nombre_del_archivo.txt
