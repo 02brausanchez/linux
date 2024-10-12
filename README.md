@@ -1,6 +1,4 @@
-# linux
 # Guía de comandos de Linux
-
 A continuación se presentan varios comandos útiles de Linux junto con sus descripciones.
 
 ## Listar archivos y directorios
